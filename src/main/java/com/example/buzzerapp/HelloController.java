@@ -6,12 +6,13 @@ import javafx.scene.control.Label;
 import javafx.stage.Stage;
 import javafx.stage.Window;
 
+import java.net.URL;
+
 public class HelloController {
     @FXML
     public Button closebutton;
     @FXML
     private Label welcomeText;
-
 
 
 

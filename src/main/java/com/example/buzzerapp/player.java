@@ -1,3 +1,5 @@
+package com.example.buzzerapp;
+
 public class player {
 
     private String name;

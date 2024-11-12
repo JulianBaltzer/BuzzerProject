@@ -18,5 +18,5 @@
     <Label fx:id="welcomeText" />
     <Button onAction="#onHelloButtonClick" text="Hello!" />
    <Button mnemonicParsing="false" text="Button" />
-   <Button fx:id="closebutton" mnemonicParsing="false" onAction="#exit_app" text="Exit" />
+   <Button fx:id="closebutton" maxHeight="1000.0" maxWidth="600.0" minWidth="10.0" mnemonicParsing="false" onAction="#exit_app" text="Exit" />
 </VBox>
